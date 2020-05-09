@@ -1,0 +1,4 @@
+Documentation set was installed to Xcode!
+
+Path: /Users/cheng/Library/Developer/Shared/Documentation/DocSets/com.looking.lkltableview.xcworkspace.LKLTableView.xcworkspace.docset
+Time: 2020-04-22 05:36:59 +0000
